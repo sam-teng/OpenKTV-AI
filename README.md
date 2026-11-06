@@ -26,7 +26,7 @@ OpenKTV 是一套免費開源的 AI 卡拉 OK 系統，讓使用者能夠透過 
 | 操作介面 | Web / Flask | Rust 原生 GUI |
 | AI 人聲分離 | Spleeter | Demucs |
 | 播放核心 | 網頁播放器 | mpv |
-| 即時升降 KEY | — | ✅ |
+| 即時升降 KEY | ✅ | ✅ |
 | 手機無線 MIC | — | ✅ |
 | 手機遙控點歌 | ✅ | ✅ |
 | Windows EXE | ✅ | ✅ |
